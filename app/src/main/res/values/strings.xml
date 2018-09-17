@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">helloword</string>
+    <string name="app_name">薄利圆</string>
+    <string name="title_activity_web_view">WebViewActivity</string>
+    <string name="title_activity_start">StartActivity</string>
 </resources>
